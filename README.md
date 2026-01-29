@@ -1,7 +1,7 @@
 # 👟 Step Foot Store
 A secure and dynamic E-commerce platform for footwear, built with the Laravel framework.
 
-![Project Banner](screenshots/main_display.png)
+![Project Banner](form_scrshot.png)
 
 ## 🚀 Features
 * **User Authentication:** Secure Login/Register system with encrypted passwords.
