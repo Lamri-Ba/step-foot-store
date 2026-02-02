@@ -10,7 +10,7 @@ A secure and dynamic E-commerce platform for footwear, built with the Laravel fr
 
 
 ## 🛠️ Tech Stack
-* **Backend:** PHP (Laravel 10)
+* **Backend:** PHP (Laravel 12)
 * **Frontend:** Blade, CSS3, JavaScript
 * **Database:** MySQL
 
